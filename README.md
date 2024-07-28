@@ -1,4 +1,4 @@
-# gem_chat
+# chatbot
 
 A new Flutter project.
 
